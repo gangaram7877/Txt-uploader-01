@@ -1,5 +1,5 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 Uploader 『Killer』BOT",
+    "name": "𝐓𝐞𝐱𝐭 Uploader",
     "description": "Download videos from various websites using this telegram bot",
     "logo": "https://telegra.ph/file/adb079804486329352222.jpg",
     "keywords": [
@@ -7,8 +7,8 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/NtrRaz/",
-    "success_url": "https://telegram.me/classtubeofficial",
+    "repository": "https://github.com/Vastavikrahul01/Txt-uploader-01",
+    "success_url": "https://telegram.me/Vastavikrahul",
     "stack": "container",
     "env": {
         "API_ID": {
