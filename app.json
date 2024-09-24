@@ -11,15 +11,15 @@
     "success_url": "https://telegram.me/Vastavikrahul",
     "stack": "container",
     "env": {
-        "API_ID": {
+        "API_ID": {26466863
             "description": "Enter your API id You can generate by https://my.telegram.org/auth",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {43eb777ae460ede6129c6549e5ba7817
             "description": "Enter your API Hash You can generate by https://my.telegram.org/auth",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {7832530530:AAH653AeaEoh5FxOu1SAqZiNinLBUE-G9kA
             "description": "Enter your bot token You can generate by @BotFather",
             "required": true
         }
